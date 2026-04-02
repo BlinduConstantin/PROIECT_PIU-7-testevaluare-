@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Clasa_Domeniu\Clasa_Domeniu.csproj" />
+    <ProjectReference Include="..\Clasa_Highscore\Clasa_Highscore.csproj" />
+    <ProjectReference Include="..\Clasa_Player\Clasa_Player.csproj" />
+  </ItemGroup>
+
 </Project>
