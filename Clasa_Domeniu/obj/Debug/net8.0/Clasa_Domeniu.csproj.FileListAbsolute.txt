@@ -1,0 +1,15 @@
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\obj\Debug\net8.0\Clasa_Domeniu.GeneratedMSBuildEditorConfig.editorconfig
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\obj\Debug\net8.0\Clasa_Domeniu.AssemblyInfoInputs.cache
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\obj\Debug\net8.0\Clasa_Domeniu.AssemblyInfo.cs
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\obj\Debug\net8.0\Clasa_Domeniu.csproj.CoreCompileInputs.cache
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\obj\Debug\net8.0\Clasa_Domeniu.sourcelink.json
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\bin\Debug\net8.0\Clasa_Domeniu.exe
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\bin\Debug\net8.0\Clasa_Domeniu.deps.json
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\bin\Debug\net8.0\Clasa_Domeniu.runtimeconfig.json
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\bin\Debug\net8.0\Clasa_Domeniu.dll
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\bin\Debug\net8.0\Clasa_Domeniu.pdb
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\obj\Debug\net8.0\Clasa_Domeniu.dll
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\obj\Debug\net8.0\refint\Clasa_Domeniu.dll
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\obj\Debug\net8.0\Clasa_Domeniu.pdb
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\obj\Debug\net8.0\Clasa_Domeniu.genruntimeconfig.cache
+F:\PIU\PROIECT_PIU\Clasa_Domeniu\obj\Debug\net8.0\ref\Clasa_Domeniu.dll

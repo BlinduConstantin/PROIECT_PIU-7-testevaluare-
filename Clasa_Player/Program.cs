@@ -1,5 +1,12 @@
 ﻿namespace Clasa_Player
 {
+    public enum varsta
+    {
+        v0_18=1,
+        v18_35=2,
+        v35_60=3,
+        vp60=4
+    }
     class player
     {
         string nume = "";

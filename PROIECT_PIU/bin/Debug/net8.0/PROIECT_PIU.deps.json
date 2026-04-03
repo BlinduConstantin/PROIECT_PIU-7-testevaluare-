@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PROIECT_PIU/1.0.0": {
+        "dependencies": {
+          "Clasa_Domeniu": "1.0.0",
+          "Clasa_Highscore": "1.0.0",
+          "Clasa_Player": "1.0.0"
+        },
+        "runtime": {
+          "PROIECT_PIU.dll": {}
+        }
+      },
+      "Clasa_Domeniu/1.0.0": {
+        "runtime": {
+          "Clasa_Domeniu.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Clasa_Highscore/1.0.0": {
+        "runtime": {
+          "Clasa_Highscore.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Clasa_Player/1.0.0": {
+        "runtime": {
+          "Clasa_Player.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROIECT_PIU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clasa_Domeniu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clasa_Highscore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clasa_Player/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

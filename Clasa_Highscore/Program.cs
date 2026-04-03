@@ -2,6 +2,11 @@
 {
 
     ///TO WORK: 
+    public enum factor_scor
+    {
+        greseli = 1,
+        timp = 2,
+    }
     class highscore
     {
         float[] highscore_1 = { }; ///vector highscore primul test
@@ -12,7 +17,6 @@
         char[] users_highscores_2 = { };
         char[] users_highscores_3 = { };
         char[] users_highscores_4 = { }; ///nume utilizatori ultimul test
-
     }
     /// TO WORK: 
     /// 

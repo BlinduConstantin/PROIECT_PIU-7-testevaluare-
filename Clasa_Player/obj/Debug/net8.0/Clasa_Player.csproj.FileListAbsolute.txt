@@ -1,0 +1,15 @@
+F:\PIU\PROIECT_PIU\Clasa_Player\obj\Debug\net8.0\Clasa_Player.GeneratedMSBuildEditorConfig.editorconfig
+F:\PIU\PROIECT_PIU\Clasa_Player\obj\Debug\net8.0\Clasa_Player.AssemblyInfoInputs.cache
+F:\PIU\PROIECT_PIU\Clasa_Player\obj\Debug\net8.0\Clasa_Player.AssemblyInfo.cs
+F:\PIU\PROIECT_PIU\Clasa_Player\obj\Debug\net8.0\Clasa_Player.csproj.CoreCompileInputs.cache
+F:\PIU\PROIECT_PIU\Clasa_Player\obj\Debug\net8.0\Clasa_Player.sourcelink.json
+F:\PIU\PROIECT_PIU\Clasa_Player\bin\Debug\net8.0\Clasa_Player.exe
+F:\PIU\PROIECT_PIU\Clasa_Player\bin\Debug\net8.0\Clasa_Player.deps.json
+F:\PIU\PROIECT_PIU\Clasa_Player\bin\Debug\net8.0\Clasa_Player.runtimeconfig.json
+F:\PIU\PROIECT_PIU\Clasa_Player\bin\Debug\net8.0\Clasa_Player.dll
+F:\PIU\PROIECT_PIU\Clasa_Player\bin\Debug\net8.0\Clasa_Player.pdb
+F:\PIU\PROIECT_PIU\Clasa_Player\obj\Debug\net8.0\Clasa_Player.dll
+F:\PIU\PROIECT_PIU\Clasa_Player\obj\Debug\net8.0\refint\Clasa_Player.dll
+F:\PIU\PROIECT_PIU\Clasa_Player\obj\Debug\net8.0\Clasa_Player.pdb
+F:\PIU\PROIECT_PIU\Clasa_Player\obj\Debug\net8.0\Clasa_Player.genruntimeconfig.cache
+F:\PIU\PROIECT_PIU\Clasa_Player\obj\Debug\net8.0\ref\Clasa_Player.dll

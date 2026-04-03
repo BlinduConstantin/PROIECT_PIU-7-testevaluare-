@@ -1,0 +1,15 @@
+F:\PIU\PROIECT_PIU\Clasa_Highscore\obj\Debug\net8.0\Clasa_Highscore.GeneratedMSBuildEditorConfig.editorconfig
+F:\PIU\PROIECT_PIU\Clasa_Highscore\obj\Debug\net8.0\Clasa_Highscore.AssemblyInfoInputs.cache
+F:\PIU\PROIECT_PIU\Clasa_Highscore\obj\Debug\net8.0\Clasa_Highscore.AssemblyInfo.cs
+F:\PIU\PROIECT_PIU\Clasa_Highscore\obj\Debug\net8.0\Clasa_Highscore.csproj.CoreCompileInputs.cache
+F:\PIU\PROIECT_PIU\Clasa_Highscore\obj\Debug\net8.0\Clasa_Highscore.sourcelink.json
+F:\PIU\PROIECT_PIU\Clasa_Highscore\bin\Debug\net8.0\Clasa_Highscore.exe
+F:\PIU\PROIECT_PIU\Clasa_Highscore\bin\Debug\net8.0\Clasa_Highscore.deps.json
+F:\PIU\PROIECT_PIU\Clasa_Highscore\bin\Debug\net8.0\Clasa_Highscore.runtimeconfig.json
+F:\PIU\PROIECT_PIU\Clasa_Highscore\bin\Debug\net8.0\Clasa_Highscore.dll
+F:\PIU\PROIECT_PIU\Clasa_Highscore\bin\Debug\net8.0\Clasa_Highscore.pdb
+F:\PIU\PROIECT_PIU\Clasa_Highscore\obj\Debug\net8.0\Clasa_Highscore.dll
+F:\PIU\PROIECT_PIU\Clasa_Highscore\obj\Debug\net8.0\refint\Clasa_Highscore.dll
+F:\PIU\PROIECT_PIU\Clasa_Highscore\obj\Debug\net8.0\Clasa_Highscore.pdb
+F:\PIU\PROIECT_PIU\Clasa_Highscore\obj\Debug\net8.0\Clasa_Highscore.genruntimeconfig.cache
+F:\PIU\PROIECT_PIU\Clasa_Highscore\obj\Debug\net8.0\ref\Clasa_Highscore.dll
