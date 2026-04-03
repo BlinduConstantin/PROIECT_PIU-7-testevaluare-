@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Clasa_Domeniu/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Clasa_Domeniu.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clasa_Domeniu.dll": {}
+        }
+      },
+      "Clasa_Highscore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Clasa_Highscore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clasa_Highscore.dll": {}
+        }
+      },
+      "Clasa_Player/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Clasa_Player.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clasa_Player.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clasa_Domeniu/1.0.0": {
+      "type": "project",
+      "path": "../Clasa_Domeniu/Clasa_Domeniu.csproj",
+      "msbuildProject": "../Clasa_Domeniu/Clasa_Domeniu.csproj"
+    },
+    "Clasa_Highscore/1.0.0": {
+      "type": "project",
+      "path": "../Clasa_Highscore/Clasa_Highscore.csproj",
+      "msbuildProject": "../Clasa_Highscore/Clasa_Highscore.csproj"
+    },
+    "Clasa_Player/1.0.0": {
+      "type": "project",
+      "path": "../Clasa_Player/Clasa_Player.csproj",
+      "msbuildProject": "../Clasa_Player/Clasa_Player.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Clasa_Domeniu >= 1.0.0",
+      "Clasa_Highscore >= 1.0.0",
+      "Clasa_Player >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Legion\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\PIU\\PROIECT_PIU\\PROIECT_PIU\\PROIECT_PIU.csproj",
+      "projectName": "PROIECT_PIU",
+      "projectPath": "F:\\PIU\\PROIECT_PIU\\PROIECT_PIU\\PROIECT_PIU.csproj",
+      "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+      "outputPath": "F:\\PIU\\PROIECT_PIU\\PROIECT_PIU\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "F:\\PIU\\PROIECT_PIU\\Clasa_Domeniu\\Clasa_Domeniu.csproj": {
+              "projectPath": "F:\\PIU\\PROIECT_PIU\\Clasa_Domeniu\\Clasa_Domeniu.csproj"
+            },
+            "F:\\PIU\\PROIECT_PIU\\Clasa_Highscore\\Clasa_Highscore.csproj": {
+              "projectPath": "F:\\PIU\\PROIECT_PIU\\Clasa_Highscore\\Clasa_Highscore.csproj"
+            },
+            "F:\\PIU\\PROIECT_PIU\\Clasa_Player\\Clasa_Player.csproj": {
+              "projectPath": "F:\\PIU\\PROIECT_PIU\\Clasa_Player\\Clasa_Player.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
